@@ -8,7 +8,8 @@
 <ol>
     <li>Install the database from the SQL file in the root directory</li>
     <li>Install NPM dependencies</li>
-    <li>Setup .env file (root directory) to match the database settings</li>
+    <li>Setup .env file (root directory) to match the database settings <br>
+        You can create your own .env file from .env.example in the root directory.</li>
     <li>That's it! You can now run this project.</li>
 </ol>
 <span>PS: hosting should be done from the public directory.</span>
