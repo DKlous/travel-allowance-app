@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  width: 100%;
+  min-height: 100vh;
+  font-family: "Raleway", sans-serif;
+}
+
+section.table {
+  margin-top: 2rem;
+}
+
+section.table div.container table {
+  width: fit-content;
+  margin-top: 5rem;
+}
+
+section.table div.container table th {
+  vertical-align: middle;
+}
+
+section.table div.container table td:nth-of-type(4) {
+  text-align: right;
+}
+
+section.table div.container h1.title {
+  font-size: 32px;
+}
